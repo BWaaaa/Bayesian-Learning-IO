@@ -1,4 +1,4 @@
-This is the repository dedicated to an Microeconomics course on Industrial Organization
+This is the repository dedicated to a Microeconomics course on Industrial Organization
 
 Report: Modelling Inefficient Herd Behaviour.pdf
 
